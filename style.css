@@ -1,0 +1,101 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: rgb(17, 17, 17);
+  
+}
+
+
+.container{
+  height: 100vh;
+  width: 100%;
+  background: url(ASSETS/makeup.png);
+  background-size: cover;
+  background-position: center;
+.nav-bar img{
+  border-radius: 20px 20px 20px 20px;
+}
+}
+header{
+  font-family: 'Courier New', Courier, monospace;
+  padding: 25px;
+  margin-right: 20px;
+  text-align: center;
+}
+.nav-bar{
+  display: flex;
+  align-items: center;
+padding: 5px;
+}
+.menu li{
+  display: inline;
+  list-style: inline;
+}
+
+.menu ul a{
+  text-decoration: none;
+  color: aqua;
+  font-size: 20px;
+margin-left: 30px;
+  font-weight: 600px;
+}
+home .time h1{
+  margin-bottom: 80px;
+}
+h1{
+  margin-bottom: px;
+}
+button{
+  color: black;
+}
+li{
+  margin: 3px;
+  padding: 0px;
+}
+button{
+  width: 100px;
+  height: 50px;
+}
+h1{
+  font-family: 'Courier New', Courier, monospace;
+}
+.containerer{
+  max-width: 1320px;
+  background-color: black;
+  color: aliceblue;
+  margin: auto;
+}
+.row1{
+  display: flex;
+  flex-wrap: wrap;
+}
+ul .foot{
+  list-style: none;
+}
+.footer{
+
+  padding: 7px 0;
+
+}
+
+
+/* .social-icons{
+  list-style: none;
+  padding: 0%;
+}
+.footer-table{
+  width: 100%;
+
+}
+.footer-middle{
+  float: left;
+}
+ul{
+  list-style: none;
+}
+.footer-contact{
+  float: left;
+} */
+
